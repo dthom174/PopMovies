@@ -1,6 +1,8 @@
 # PopMovies 
 Most of us can relate to kicking back on the couch and enjoying a movie with friends and family. In this project, you’ll build an app to allow users to discover the most popular movies playing.
 
+In order to run this application you would need to create your own **API KEY** on this website 
+ * https://www.themoviedb.org/?_dc=1571891192
 ## Stage 1
 - Presents the user with a grid arrangement of movie posters upon launch.
 - allow users to change sort order via a setting:(The sort order can be by most popular or by highest-rated)

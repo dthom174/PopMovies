@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Pop Movies</string>
+    <string name="top_rated">top rated</string>
+    <string name="popular">popular</string>
+    <string name="no_network">No Internet Connection</string>
+    <string name="favorite">favorite</string>
+    <string name="share_youtube">Share Trailer 1</string>
+    <string name="trailer">Trailers:</string>
+    <string name="review">Reviews:</string>
+    <string name="error_trailer">No trailers are available</string>
+    <string name="error_review">No reviews are available</string>
+    <string name="no_favorite">You have no favorite movies</string>
+</resources>
